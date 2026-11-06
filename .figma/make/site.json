@@ -1,0 +1,10 @@
+{
+  "description": "Pet shop website showcasing products and services with Home, Gallery, and Contact sections, plus a responsive mobile layout and coordinated color palette.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
